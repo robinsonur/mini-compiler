@@ -1,0 +1,21 @@
+{
+  "name": "java-to-js-mini-compiler",
+  "version": "1.0.0",
+  "description": "A modular educational compiler from a Mini-Java language to JavaScript with full compilation phases.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinsonur/java-to-js-mini-compiler.git"
+  },
+  "author": "Robinson U. Rodríguez",
+  "license": "UNLICENSED",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/robinsonur/java-to-js-mini-compiler/issues"
+  },
+  "homepage": "https://github.com/robinsonur/java-to-js-mini-compiler#readme"
+}
